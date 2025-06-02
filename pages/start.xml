@@ -1,4 +1,4 @@
-<page id="start" bg_image="tech-bg-lab.png" bg_music="osts-stage.mp3">
+<page id="start" bg_image="davibrito.png" bg_music="osts-stage.mp3">
   <agent
     id="teste"
     text="Fábula"
@@ -12,7 +12,8 @@
   <agent
     id="next_page_text"
     text="Avançar página"
-    animation="glitch"
+    animation="bounce-in"
+    color="antiquewhite"
     y="100"
     x="350"
     on_click="goToPage('middle')"
