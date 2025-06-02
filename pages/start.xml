@@ -3,7 +3,7 @@
     id="teste"
     text="Fábula"
     animation= "fade-in"
-    color= "firebrick"
+    color= "antiquewhite"
     x="center"
     y="center"
     font-size="100"
